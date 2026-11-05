@@ -23,7 +23,7 @@ The complete implementation, including data preprocessing, clustering algorithms
 
 **[View the Complete Jupyter Notebook](fast_food_nutrition_clustering.ipynb)**
 
-## 📊 Dataset
+## Dataset
 
 This project uses the **Fast Food Nutrition** dataset available on Kaggle.
 
